@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Make Changes for ~ Android API 14 + -->
+        <item name="android:navigationBarColor">@color/colorSecondary</item>
+        <item name="android:statusBarColor">@color/colorSecondaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+
+</resources>

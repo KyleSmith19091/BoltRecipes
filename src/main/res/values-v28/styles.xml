@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Make Changes for ~ Android API 28 + -->
+
+        <item name="android:windowBackground">@color/colorBackground</item>
+
+        <!-- font attribs -->
+        <!--
+        android:fontFamily="sans-serif"
+        android:fontFamily="sans-serif-light"
+        android:fontFamily="sans-serif-condensed"
+        android:fontFamily="sans-serif-thin"
+        -->
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:navigationBarColor">@color/colorSecondary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    </style>
+
+
+
+
+
+
+
+</resources>

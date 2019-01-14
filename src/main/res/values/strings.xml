@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bolt Recipes</string>
+    <string name="btn_login">Login</string>
+    <string name="link_signup">No account yet? Create one</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="link_already_have_account">Already have an account? Login</string>
+    <string name="title_activity_user_recipe">UserRecipeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome</string>
+    <string name="nav_header_subtitle">Username</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Info</string>
+    <string name="title_activity_users_recipe">Our Cookbook</string>
+    <string name="txt_recipe_method">Method</string>
+    <string name="txt_ingredients">Ingredients</string>
+    <string name="btn_add_recipe_contents">Contents</string>
+
+
+</resources>

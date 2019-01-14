@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Theme ~ A series of styles which is going to be applied to an activity -->
+
+    <!-- Style ~ Describes how a certain widget is going to look-->
+
+    <!-- Theme Light : Android 3.0 -->
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Make Changes for ~ Android API 10 and back -->
+        <item name="android:navigationBarColor">@color/colorSecondary</item>
+        <item name="android:statusBarColor">@color/colorSecondaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
